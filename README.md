@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jyotirmoy Das
 - 👀 I’m interested in Web Development(Full Stack), Machine Learning, Deep Learning, AWS, WEB3, Solidity & much more...
-- 🌱 I’m currently learning Advanced JavaScript
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Python projects
 
 <!---
