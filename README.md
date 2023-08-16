@@ -33,13 +33,13 @@ You can click the Preview link to take a look at your changes.
           
 ## ⚙️ Personal Projects
 
-* #### [PC-Hunters](https://pc-hunters.netlify.app/) {:target="_blank"} - An Full Stack E-Commerce Store Prototype for different computer parts like Processors, Graphics Cards, RAMs, Liquid Cooling, Cabinets, Motherboards. It is Built using ReactJS, MongoDB, NodeJS, ExpressJS, Redux & React-Router.
+* #### [PC-Hunters](https://pc-hunters.netlify.app/) - An Full Stack E-Commerce Store Prototype for different computer parts like Processors, Graphics Cards, RAMs, Liquid Cooling, Cabinets, Motherboards. It is Built using ReactJS, MongoDB, NodeJS, ExpressJS, Redux & React-Router.
 
-* #### [Gamerz-Adobe](https://gamerz-adobe.netlify.app/) {:target="_blank"} - a Full Stack Social Media Prototype built using MongoDB, React, Express & Node.js where users/gamers can sign-up, create posts, comment & interact with other people's posts. 
+* #### [Gamerz-Adobe](https://gamerz-adobe.netlify.app/) - a Full Stack Social Media Prototype built using MongoDB, React, Express & Node.js where users/gamers can sign-up, create posts, comment & interact with other people's posts. 
 
-* #### [Macro-nutrient Status Estimator](https://macronutrient-status-esmitamor.onrender.com/) {:target="_blank"} - A voting classifier based machine learning system that aims to classify different levels of macro-nutrient present in a soil sample depending upon the amount of some other parameters.
+* #### [Macro-nutrient Status Estimator](https://macronutrient-status-esmitamor.onrender.com/) - A voting classifier based machine learning system that aims to classify different levels of macro-nutrient present in a soil sample depending upon the amount of some other parameters.
 
-* #### [Skin Cancer Classification Using Deep Convolutional Neural Networks](https://github.com/jyotirmoy1997/skin-cancer-classifier) {:target="_blank"} - A Skin Cancer Classfication System built using Deep Convolutional Neural Networks in conjunction with a hair removal and segmentation pre-processing pipeline.
+* #### [Skin Cancer Classification Using Deep Convolutional Neural Networks](https://github.com/jyotirmoy1997/skin-cancer-classifier) - A Skin Cancer Classfication System built using Deep Convolutional Neural Networks in conjunction with a hair removal and segmentation pre-processing pipeline.
 
   
 
