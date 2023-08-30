@@ -8,7 +8,7 @@ jyotirmoy1997/jyotirmoy1997 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![](/github-header-image.png)
+![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1693384531/GitHub%20Readme/Personal/github-header-image_ukumdg.png)
 
 # Hi There ! I'm Jyotirmoy Das
 
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Let's connect and collaborate !
 <a href="https://jyotirmoydasdev.netlify.app/">
-<img src="./website.png" width=50 /></a>
+<img src="https://res.cloudinary.com/dst1eqcmo/image/upload/v1693384560/GitHub%20Readme/Personal/website_pr4unx.png" width=50 /></a>
 <a href="https://twitter.com/DosJoehan">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=50 /></a>
 <a href="https://www.linkedin.com/in/jyotirmoy-das/">
