@@ -8,7 +8,7 @@ jyotirmoy1997/jyotirmoy1997 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1693384531/GitHub%20Readme/Personal/github-header-image_ukumdg.png)
+![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1693384774/GitHub%20Readme/Personal/github-header-image_r5gutk.png)
 
 # Hi There ! I'm Jyotirmoy Das
 
