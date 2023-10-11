@@ -1,6 +1,6 @@
 ![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1693384774/GitHub%20Readme/Personal/github-header-image_r5gutk.png)
 
-\ # Hi There ! I'm Jyotirmoy Das
+\# Hi There ! I'm Jyotirmoy Das
 
 ## 🚀 MERN Stack Developer | 🐍 Python Master | 🧠 Deep Learning Explorer
 
