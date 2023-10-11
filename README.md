@@ -2,24 +2,18 @@
 
 # Hi There ! I'm Jyotirmoy Das
 
-####🚀 MERN Stack Developer 🐍 Python Master | 🧠 Deep Learning Explorer####
+**🚀 MERN Stack Developer 🐍 Python Master | 🧠 Deep Learning Explorer**
 
-** 👋 Hey there! I'm Jyotirmoy Das, a passionate MERN Stack Developer with a love for crafting efficient and user-friendly web applications 🌐 When I'm not immersed in the world of JavaScript, React, and Node.js, you'll find me diving into the realm of Python, where I tinker with code to build powerful solutions.
+**👋 Hey there! I'm Jyotirmoy Das, a passionate MERN Stack Developer with a love for crafting efficient and user-friendly web applications 🌐 When I'm not immersed in the world of JavaScript, React, and Node.js, you'll find me diving into the realm of Python, where I tinker with code to build powerful solutions.**
 
-** 🔍 My curiosity doesn't stop at web development and scripting – I'm also a dedicated Deep Learning Enthusiast. From neural networks to machine learning algorithms, I'm always eager to explore the possibilities of AI and its real-world applications.
+**🔍 My curiosity doesn't stop at web development and scripting – I'm also a dedicated Deep Learning Enthusiast. From neural networks to machine learning algorithms, I'm always eager to explore the possibilities of AI and its real-world applications.**
 
-** 🌟 I strive to push the boundaries of technology. Whether it's front-end finesse, back-end brilliance, or AI advancement, I'm all about turning ideas into lines of code that make a difference.
+**🌟 I strive to push the boundaries of technology. Whether it's front-end finesse, back-end brilliance, or AI advancement, I'm all about turning ideas into lines of code that make a difference.**
 
 ## 🧑‍💻 My Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
-
-          
-          
-          
-          
-          
-          
+      
           
 ## ⚙️ Personal Projects
 
@@ -32,7 +26,6 @@
 * #### [Skin Cancer Classification Using Deep Convolutional Neural Networks](https://github.com/jyotirmoy1997/skin-cancer-classifier) - A Skin Cancer Classfication System built using Deep Convolutional Neural Networks in conjunction with a hair removal and segmentation pre-processing pipeline.
 
   
-
 ## 📫 Let's connect and collaborate !
 <a href="https://jyotirmoydasdev.netlify.app/">
 <img src="https://res.cloudinary.com/dst1eqcmo/image/upload/v1693384560/GitHub%20Readme/Personal/website_pr4unx.png" width=50 /></a>
