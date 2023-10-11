@@ -2,7 +2,7 @@
 
 # Hi There ! I'm Jyotirmoy Das
 
-* 🚀 MERN Stack Developer 🐍 Python Master | 🧠 Deep Learning Explorer
+* ### - 🚀 MERN Stack Developer 🐍 Python Master | 🧠 Deep Learning Explorer
 
 * 👋 Hey there! I'm Jyotirmoy Das, a passionate MERN Stack Developer with a love for crafting efficient and user-friendly web applications 🌐 When I'm not immersed in the world of JavaScript, React, and Node.js, you'll find me diving into the realm of Python, where I tinker with code to build powerful solutions.
 
