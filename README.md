@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1702214421/GitHub%20Readme/Personal/github-header-image_2_lrsmk6.png)
+![](https://res.cloudinary.com/dst1eqcmo/image/upload/v1702214552/GitHub%20Readme/Personal/github-header-image_v3wu8x.png)
 
 # Hi There ! I'm Jyotirmoy Das
 
